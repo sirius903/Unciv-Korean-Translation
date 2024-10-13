@@ -1,1 +1,7 @@
-[]
+[
+  "eng" : "Spy",
+  "kor" : "첩보원",
+  "stat" : true,
+  "use" : true,
+  "mode" : false
+]
