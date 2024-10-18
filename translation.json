@@ -1,5 +1,5 @@
 [
-  "0.0.0",
+  "4.13.17",
   {
     "eng": "Spy",
     "kor": "첩보원",
@@ -40503,6 +40503,12 @@
   {
     "eng": "Food conversion to Production\\nDuring the construction of a Settler, the city will not grow. Instead, the 1st, 2nd, 4th, and from there on every 4th, excess Food (Growth) is converted into Production, with the rest of the excess Food being lost.",
     "kor": "",
+    "stat": false,
+    "use": true,
+    "mod": false
+  },
+  {
+    "eng": " ",
     "stat": false,
     "use": true,
     "mod": false
