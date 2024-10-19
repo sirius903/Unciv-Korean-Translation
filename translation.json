@@ -1116,7 +1116,7 @@
   {
     "eng": " ",
     "stat": false,
-    "use": true,
+    "use": false,
     "mod": false
   },
   {
@@ -1143,7 +1143,7 @@
   {
     "eng": " ",
     "stat": false,
-    "use": true,
+    "use": false,
     "mod": false
   },
   {
