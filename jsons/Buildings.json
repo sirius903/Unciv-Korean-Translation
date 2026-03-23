@@ -61,7 +61,7 @@
     "name": "Trade Mathematics School",
     "cost": 90,
     "maintenance": 1,
-    "uniques": ["[+25]% Science from [Trade Routes]"],
+    "uniques": ["[25]% [Science] from Trade Routes"],
     "requiredTech": "Mathematics"
   },
   {
