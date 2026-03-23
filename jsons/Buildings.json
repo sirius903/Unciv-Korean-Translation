@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Clay Workshop",
+    "cost": 40,
+    "maintenance": 1,
+    "science": 1,
+    "requiredTech": "Pottery"
+  },
+  {
+    "name": "Animal Study",
+    "cost": 50,
+    "maintenance": 1,
+    "uniques": ["[+1 Science] from [Pasture] tiles [in this city]"],
+    "requiredTech": "Animal Husbandry"
+  },
+  {
+    "name": "Stone Research Site",
+    "cost": 50,
+    "maintenance": 1,
+    "science": 1,
+    "uniques": ["[+1 Science] from [Quarry] tiles [in this city]"],
+    "requiredTech": "Mining"
+  },
+  {
+    "name": "Archery Range Studies",
+    "cost": 60,
+    "maintenance": 1,
+    "science": 2,
+    "requiredTech": "Archery"
+  },
+  {
+    "name": "Calendar Observatory",
+    "cost": 60,
+    "maintenance": 1,
+    "science": 2,
+    "requiredTech": "Calendar"
+  },
+  {
+    "name": "Scriptorium",
+    "cost": 70,
+    "maintenance": 1,
+    "uniques": ["[+1 Science] per [3] population [in this city]"],
+    "requiredTech": "Writing"
+  },
+  {
+    "name": "Masonry Lab",
+    "cost": 70,
+    "maintenance": 1,
+    "science": 2,
+    "requiredTech": "Masonry"
+  },
+  {
+    "name": "Bronze Foundry",
+    "cost": 80,
+    "maintenance": 1,
+    "science": 2,
+    "production": 1,
+    "requiredTech": "Bronze Working"
+  },
+  {
+    "name": "Trade Mathematics School",
+    "cost": 90,
+    "maintenance": 1,
+    "uniques": ["[+25]% Science from [Trade Routes]"],
+    "requiredTech": "Mathematics"
+  },
+  {
+    "name": "Philosophical Academy",
+    "cost": 100,
+    "maintenance": 2,
+    "percentStatBonus": {"science": 10},
+    "requiredTech": "Philosophy"
+  },
+  {
+    "name": "Engineering Guild",
+    "cost": 110,
+    "maintenance": 2,
+    "science": 3,
+    "production": 1,
+    "requiredTech": "Engineering"
+  },
+  {
+    "name": "Civil Service Bureau",
+    "cost": 120,
+    "maintenance": 2,
+    "uniques": ["[+1 Science] per [2] population [in this city]"],
+    "requiredTech": "Civil Service"
+  },
+  {
+    "name": "Theological Library",
+    "cost": 120,
+    "maintenance": 2,
+    "science": 3,
+    "requiredTech": "Theology"
+  },
+  {
+    "name": "Guild Research Hall",
+    "cost": 130,
+    "maintenance": 2,
+    "science": 3,
+    "gold": 1,
+    "requiredTech": "Guilds"
+  },
+  {
+    "name": "Education Institute",
+    "cost": 150,
+    "maintenance": 2,
+    "percentStatBonus": {"science": 15},
+    "requiredTech": "Education"
+  }
+]
